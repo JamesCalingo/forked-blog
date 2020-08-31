@@ -30,12 +30,11 @@ This is some pertinent information for this post:
 title: Test Post
 published: true
 datePublished: 1599000000000
-author: James Calingo
 ```
 
 You'll probably notice that ridiculous number next to the "datePublished" field and wonder "What does that have to do with today's date?"
 
-Well, it's the number of milliseconds that have passed since December 31, 1969.
+Well, it's the number of seconds that have passed since December 31, 1969.
 
 Why that date?
 
@@ -43,11 +42,13 @@ Why that date?
 
 Okay, let me actually regail you for a bit:
 
-It's related to how the Unix timestamp, which is how the publish dates are generated for this blog. For whatever reason, they chose midnight on January 1, 1970 UTC as point 0 for their system (I'm in U.S. Eastern time, which is 4-5 hours behind UTC depending on daylight savings).
+It's related to something known as a Unix timestamp, which is how the publish dates are generated for this blog. For whatever reason, they chose midnight on January 1, 1970 UTC as point 0 for their system (or "the Unix Epoch"). and the number of seconds since then is how the Unix timestamp is generated. For example, the Unix timestamp for midnight on my birthday this year is 1581206400.
 
-Before I found a website to get the actual Unix timestamp for today, I was just messing with the numbers to try and get something closeish to today, and I ended up settling on that timestamp!
+(Small note: the reason I said December 31, 1969 earlier is because I am in the U.S. Eastern time zone, which is 4-5 hours behind UTC depending on whether or not we're in Daylight Savings/Summer time.)
 
-Truth be told, this is being written a day in advance, but with the timestamp spitting out September 1, that feels like a good day to start, does it not? Also, of course, I had to figure out how to get this all up and running, so that kinda helped move things along.
+Before I found a website to get the actual Unix timestamp for today, I was just messing with the numbers to try and get something closeish to today, and I ended up finding that and settling on it!
+
+Truth be told, this is being written a day in advance, but with the timestamp spitting out September 1, that feels like a good day to "start", does it not? Also, of course, I had to figure out how to get this all up and running, so that kinda helped move things along.
 
 Anyway, I've been rambling for a while now, and unless you're someone I know, you're probably wondering
 
