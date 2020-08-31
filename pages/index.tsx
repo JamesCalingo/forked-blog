@@ -24,13 +24,13 @@ const Home = (props: {
   return (
     <div style={{ width: '100%' }}>
       <Head>
-        <title>Testy</title>
+        <title>The Me Experience</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div style={sectionStyle}>
         <h2 style={{ margin: '4px 0px', fontSize: '34pt' }}>James Calingo</h2>
         <p style={{ maxWidth: '550px', paddingBottom: '30px', ...pStyle }}>
-          The thoughts of a fullstack developer, musician, video and board game enthusiast, and not a GPT bot.
+          The thoughts of a fullstack developer, musician, video and board game enthusiast, and 1999 Newton Youth Soccer participant.
         </p>
         <div
           style={{

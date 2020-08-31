@@ -16,7 +16,7 @@ export const Meta: React.FC<{
   return (
     <NextHead>
       <title>{meta.title}</title>
-      <meta name="copyright" content="Colin McDonnell" />
+      <meta name="copyright" content="James Calingo" />
 
       {meta.link && <link rel="canonical" href={meta.link} />}
       {meta.desc && <meta name="description" content={meta.desc} />}
