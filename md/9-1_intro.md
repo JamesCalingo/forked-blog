@@ -5,7 +5,7 @@ published: true
 datePublished: 1599000000001
 author: 
 tags:
-  - test posting
+  -introduction
 authorPhoto: 
 bannerPhoto:
 thumbnailPhoto: 
@@ -39,6 +39,7 @@ Outside of that, I am a musician (who plays...a few instruments), video gamer (w
 My purpose for this blog is...a good question. Ideally, it'd be a place where I could write my thoughts on work, social interactions, and life in general. I'd also like to believe that I'm what the masses consider as "funny" (Spoiler alert: I'm not).
 
 As for how often I'm going to post here...that depends. Again, currently looking for work, hoping to be actually working soon, so updates on this blog will probably come between that, Animal Crossing, and screaming at my laptop in C# (hey, that's a double joke!).
+(There is actually one more reason updates may be a bit scant soon. Not sure if it's going to happen, but I will let you know if it does.)
 
 Anyway, I hope that helps you understand a bit of who I am and what this blog is about. The bare minimum should be about one post a week, and since I posted yesterday, that makes two!
 
