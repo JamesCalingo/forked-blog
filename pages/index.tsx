@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-import { PostData, loadBlogPosts, loadMarkdownFile } from '../loader';
+import { PostData, loadBlogPosts } from '../loader';
 import { PostCard } from '../components/PostCard';
 import { generateRSS } from '../rssUtil';
 // import { Markdown } from '../components/Markdown';
@@ -17,8 +17,6 @@ const sectionStyle = {
 const pStyle = { lineHeight: 1.7 };
 
 const Home = (props: {
-  // features: string;
-  // readme: string;
   posts: PostData[];
 }) => {
   return (
@@ -54,10 +52,6 @@ const Home = (props: {
 export default Home;
 
 export const getStaticProps = async () => {
-  const introduction = await loadMarkdownFile('introduction.md');
-  const features = await loadMarkdownFile('features.md');
-  const readmeFile = await import(`../${'README.md'}`);
-  const readme = readmeFile.default;
 
   const posts = await loadBlogPosts();
 
@@ -65,6 +59,6 @@ export const getStaticProps = async () => {
   // during build step.
   await generateRSS(posts);
 
-  const props = { introduction, features, readme, posts };
+  const props = { posts };
   return { props };
 };

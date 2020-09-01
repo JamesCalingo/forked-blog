@@ -2,7 +2,7 @@
 title: Test Post
 subtitle: Just checking some stuff out for now...
 published: true
-datePublished: 1599000000
+datePublished: 1599000000000
 author: 
 tags:
   - test posting
@@ -29,12 +29,12 @@ This is some pertinent information for this post:
 ``` 
 title: Test Post
 published: true
-datePublished: 1599000000
+datePublished: 1599000000000
 ```
 
 You'll probably notice that ridiculous number next to the "datePublished" field and wonder "What does that have to do with today's date?"
 
-Well, it's the number of seconds that have passed since December 31, 1969.
+Well, it's the number of milliseconds that have passed since December 31, 1969.
 
 Why that date?
 
@@ -44,7 +44,7 @@ Okay, let me actually regail you for a bit:
 
 It's related to something known as a Unix timestamp, which is how the publish dates are generated for this blog. For whatever reason, they chose midnight on January 1, 1970 UTC as point 0 for their system (or "the Unix Epoch"). and the number of seconds since then is how the Unix timestamp is generated. For example, the Unix timestamp for midnight on my birthday this year is 1581206400.
 
-(Small note: the reason I said December 31, 1969 earlier is because I am in the U.S. Eastern time zone, which is 4-5 hours behind UTC depending on whether or not we're in Daylight Savings/Summer time.)
+Small note: the reason I said December 31, 1969 earlier is because I am in the U.S. Eastern time zone, which is 4-5 hours behind UTC depending on whether or not we're in Daylight Savings/Summer time. Also, I think this is supposed to be mesured in seconds, but my times are in milliseconds. Weird, I know. 
 
 Before I found a website to get the actual Unix timestamp for today, I was just messing with the numbers to try and get something closeish to today, and I ended up finding that and settling on it!
 
