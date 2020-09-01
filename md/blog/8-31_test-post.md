@@ -2,7 +2,7 @@
 title: Test Post
 subtitle: Just checking some stuff out for now...
 published: true
-datePublished: 1599000000000
+datePublished: 1599000000
 author: 
 tags:
   - test posting
@@ -29,7 +29,7 @@ This is some pertinent information for this post:
 ``` 
 title: Test Post
 published: true
-datePublished: 1599000000000
+datePublished: 1599000000
 ```
 
 You'll probably notice that ridiculous number next to the "datePublished" field and wonder "What does that have to do with today's date?"

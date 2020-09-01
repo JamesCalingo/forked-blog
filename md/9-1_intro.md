@@ -2,7 +2,7 @@
 title: A Proper Introduction
 subtitle: Answers to the so called "Journalistic Questions"
 published: true
-datePublished: 1599000000001
+datePublished: 1599050000
 author: 
 tags:
   -introduction
