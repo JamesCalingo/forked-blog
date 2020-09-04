@@ -20,7 +20,7 @@ export const Header: React.FC = () => (
       <p style={{ color: 'white' }}>{config.siteName}</p>
     </a>
     <div style={{ flex: 1 }} />
-    <a href="https://jamescalingo.com/portfolio" style={{ textDecoration: 'none' }}>
+    <a href="https://jamescalingo.com" style={{ textDecoration: 'none' }}>
       <p style={{ padding: '0px 1em', color: 'white' }}>Portfolio</p>
     </a>
     <a href="https://jamescalingo.wordpress.com/" target="blank" style={{ textDecoration: 'none' }}>

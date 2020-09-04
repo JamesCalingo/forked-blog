@@ -28,7 +28,7 @@ const Home = (props: {
       <div style={sectionStyle}>
         <h2 style={{ margin: '4px 0px', fontSize: '34pt' }}>James Calingo</h2>
         <p style={{ maxWidth: '550px', paddingBottom: '30px', ...pStyle }}>
-          The thoughts of a fullstack developer, musician, video and board game enthusiast, and 1999 Newton Youth Soccer participant.
+          The thoughts and ramblings of a fullstack developer, musician, video and board game enthusiast, and 1999 Newton Youth Soccer participant.
         </p>
         <div
           style={{
