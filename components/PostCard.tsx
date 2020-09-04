@@ -15,7 +15,7 @@ export const PostCard: React.FC<{ post: PostData }> = (props) => {
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'center',
-        height: '300px',
+        height: '100px',
       }}
     >
       <div
