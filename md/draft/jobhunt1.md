@@ -40,9 +40,9 @@ I muster whatever strength I still have, reach toward the closing door, and…
 You may have read that and thought, “there’s totally a deeper metaphor in there, isn’t there?”
 …and you’d be right!
 
-This was written in October of 2017 (October 24th, to be exact). At this point in my life, I was already north of two years out of college with no job and no real idea of how to get one. My resume had zero hard work experience, and I was trying to sell myself based on relatively scant experience volunteering at the front desk of a local American Red Cross office. This post summed up my feelings/fears at the time: I had a small window of time to make things happen, and if they didn’t…the consequences could be severe.
+This was written in October of 2017 (October 24th, to be exact). At this point in my life, I was already past two years out of college with no job and no real idea of how to get one. My resume had zero "real" work experience, and I was trying to sell myself based on relatively scant experience volunteering at the front desk of a local American Red Cross office. This post summed up my feelings/fears at the time: I had a small window of time to make things happen, and if they didn’t…who knows what would happen then.
 
-Over the next year, I continued to apply to jobs (and got more time at the Red Cross), but got little feedback. I had TWO in-person interviews: one was for a sales position at a company that apparently had unusual (and very disliked) practices, the other was  Like everything else at the time, neither lead anywhere. It reached the point where one day, after yet another job I had applied to said they were moving on with other candidates, I asked myself:
+Over the next year, I continued to apply to jobs (and got more time at the Red Cross), but got little feedback. I had TWO in-person interviews: one was for a sales position at a small company that ended up being kinda shady, the other was an office position for a company that assisted psychology professionals (remember, I was a Psych major). Like everything else at the time, neither lead anywhere. It reached the point where one day, after yet another job I had applied to said they were moving on with other candidates, I asked myself:
 
 “Am I just completely unhireable?”
 
