@@ -10,7 +10,7 @@ bannerPhoto:
 thumbnailPhoto: 
 canonicalUrl: https://jamescalingo.com/blog/til2
 ---
-(Yes, that is a reference to what you think it is. I’ve been using the internet since 2000, so…)
+(Yes, that is a Homestar Runner reference. I’ve been using the internet since 2000, so…)
 
 Today, I learned quite a bit about something called “Regular Expression”, henceforth known as regex.
 
