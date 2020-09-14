@@ -18,7 +18,7 @@ Like most kids of the 90s, I played a bunch of video games growing up. Being you
 
 Why am I bringing this up?
 
-Because…<a href="https://jamescalingo.com/passnplaygames/" target="blank">this</a>.
+Because…<a href="https://jamescalingo.dev/passnplaygames/" target="blank">this</a>.
 
 This is an app born from me not wanting to have created 13 repositories in one month (weird, I know). I created the repository without an idea of what it would be, and then came up with this idea one day while “working” on something similar (more on that soon).
 
@@ -48,4 +48,4 @@ Someday, though…
 
 I DO have plans for a React version of this app, though…sorta. I say that because it’ll still be Mafia/Fake Artist, but with an entirely different system of distributing roles… 
 
-Also, <a href="https://github.com/JamesCalingo/passnplaygames" target="blank">here’s the GitHub repo</a> if you’re interested. I plan on doing this if I ever mention an app I made here so that you can see what I did, since that may help you with your projects. You’re also welcome to tell me that the code is terrible and I should feel bad, but remember: I was just out of Bootcamp when making this.)
+Also, <a href="https://github.com/JamesCalingo/passnplaygames" target="blank">here’s the GitHub repo if you’re interested</a>. I plan on doing this if I ever mention an app I made here so that you can see what I did, since that may help you with your projects. You’re also welcome to tell me that the code is terrible and I should feel bad, but remember: I was just out of Bootcamp when making this.)
