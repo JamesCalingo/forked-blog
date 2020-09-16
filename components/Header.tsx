@@ -14,17 +14,16 @@ export const Header: React.FC = () => (
       backgroundColor: config.accentColor,
       padding: '30px',
       fontSize: '12pt',
+    
     }}
   >
     <a href="/" style={{ textDecoration: 'none' }}>
-      <p style={{ color: 'white' }}>{config.siteName}</p>
+      <h1 style={{ color: 'white', fontFamily: 'Helvetica, sans-serif',fontWeight: 'bold' }}>{config.yourName.toUpperCase()}</h1>
     </a>
     <div style={{ flex: 1 }} />
     <a href="https://jamescalingo.dev" style={{ textDecoration: 'none' }}>
       <p style={{ padding: '0px 1em', color: 'white' }}>Portfolio</p>
     </a>
-    <a href="https://jamescalingo.wordpress.com/" target="blank" style={{ textDecoration: 'none' }}>
-      <p style={{ padding: '0px 1em', color: 'white' }}>Older Blog Archives</p>
-    </a>
+  
   </div>
 );

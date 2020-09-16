@@ -4,7 +4,7 @@ import { PostData, loadBlogPosts } from '../loader';
 import { PostCard } from '../components/PostCard';
 import { generateRSS } from '../rssUtil';
 // import { Markdown } from '../components/Markdown';
-// import { config } from '../globals';
+import { config } from '../globals';
 
 const sectionStyle = {
   width: '100%',
@@ -22,11 +22,11 @@ const Home = (props: {
   return (
     <div style={{ width: '100%' }}>
       <Head>
-        <title>The Me Experience</title>
+        <title>Overclocked Overthoughts</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div style={sectionStyle}>
-        <h2 style={{ margin: '4px 0px', fontSize: '34pt' }}>James Calingo</h2>
+        <h2 style={{ margin: '4px 0px', fontSize: '34pt' }}>{config.siteName}</h2>
         <p style={{ maxWidth: '550px', paddingBottom: '30px', ...pStyle }}>
           The thoughts and ramblings of a fullstack developer, musician, video and board game enthusiast, and 1999 Newton Youth Soccer participant.
         </p>

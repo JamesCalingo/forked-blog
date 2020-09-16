@@ -18,14 +18,17 @@ export const Footer: React.FC = () => (
     }}
   >
     <p>{`© ${config.yourName} ${new Date().getFullYear()}`}</p>
-    <p><a href="https://github.com/vriad/devii">Blog template</a></p>
-    <a href="/rss.xml">
+    <p>Layout from <a href="https://github.com/vriad/devii">devii</a></p>
+    <a href="https://jamescalingo.wordpress.com/" target="blank" style={{ textDecoration: 'none' }}>
+      <p style={{ padding: '0px 1em', color: 'white' }}>Older Blog Archives</p>
+    </a>
+    {/* <a href="/rss.xml">
       <img
         src="/rss-white.svg"
         alt="RSS Feed"
         height="30"
         width="30"
       />
-    </a>
+    </a> */}
   </div>
 );
