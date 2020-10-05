@@ -28,7 +28,7 @@ One of my philosophies that guides how I approach the internet is that no matter
 
 That seems to have happened with something known as Hacktoberfest.
 
-For those who don’t know (like me before seeing React founder Dan Abramov tweet about it), Hacktoberfest is a thing designed to encourage developers of all skill levels to contribute to open source software (OSS). OSS is the backbone of a lot of things (such as, well, React), and contributing to it is often viewed favorably by recruiters and companies.
+For those who don’t know (like me before seeing Dan Abramov tweet about it), Hacktoberfest is a thing designed to encourage developers of all skill levels to contribute to open source software (OSS). OSS is the backbone of a lot of things (such as, well, React), and contributing to it is often viewed favorably by recruiters and companies.
 
 I’m not sure if this was true in the past, but I saw that this year, if you submitted four “acceptable” contributions to any open source softwares, you could get a t-shirt and maybe some other stuff (I’m not sure). Apparently, a popular YouTube channel from India gave a rather moronic tip to get to those four contributions: Just call stuff “awesome”!
 
