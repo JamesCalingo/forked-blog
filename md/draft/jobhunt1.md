@@ -34,7 +34,7 @@ I find which track my train is on…along with the status of my train: “ALL AB
 My car is in the parking garage! What’ll happen if I miss this train? The garage doesn’t allow overnight parking…and my family is fast asleep right now…
 I run as fast as I can to the stairs that lead to the platform. As I reach the platform, I hear an all too familiar sound:
 
-*BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP*
+BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP
 
 THE DOORS ARE CLOSING!
 
@@ -49,13 +49,13 @@ I muster whatever strength I still have, reach toward the closing door, and…
 You may have read that and thought, “there’s totally a deeper metaphor in there, isn’t there?”
 …and you’d be right!
 
-This was written in October of 2017 (October 24th, to be exact). At this point in my life, I was already past two years out of college with no job and no real idea of how to get one. My resume had zero "real" work experience, and I was trying to sell myself based on relatively scant experience volunteering at the front desk of a local American Red Cross office (as well as my position as a music coordinator for a church group). This post summed up my feelings/fears at the time: I had a small window of time to make things happen (to "get on the train"), and if they didn’t…who knows what would happen then.
+This was written in October of 2017 (October 24th, to be exact). At this point in my life, I was already past two years out of college with no job and no real idea of how to get one. My resume had zero "real" work experience, and I was trying to sell myself based on relatively scant experience volunteering at the front desk of a local American Red Cross office (as well as my position as a music coordinator for a church group). This post summed up my feelings/fears at the time: I had a small window of time to make things happen (to "get on the train"), and if I didn’t…who knows what would happen then.
 
-Over the next year, I continued to apply to jobs (and got more time at the Red Cross), but got little feedback. I had TWO in-person interviews: one was for a sales position at a small company that ended up being kinda shady, the other was an office position for a company that assisted psychology professionals (remember, I was a Psych major). Like everything else at the time, neither lead anywhere. It reached the point where one day, after yet another job I had applied to said they were moving on with other candidates, I asked myself:
+Over the next year, I continued to apply to jobs (and got more time at the Red Cross), but got little feedback. I had TWO in-person interviews: one was for a sales position at a small company that ended up being kinda shady, the other was an office position for a company that assisted psychology professionals (remember, I was a Psych major). Like everything else at the time, neither led anywhere. It reached the point where one day, after yet another job I had applied to said they were moving on with other candidates, I asked myself:
 
 “Am I just completely unhireable?”
 
-Additionally, I started to question what my career would look like. I had an interest I WANTED to take up in graduate school (this may still happen in the future), but without money, I wouldn’t be able to pursue that, and without a job, I wouldn’t have money (my parents explicitly told me they wouldn’t be able to financially support it without me pitching in). However, if that interest ended up not panning out, where would I be? Moving around from dead-end job to dead-end job, not making much due to my lack of skills (and thus, unable to do much of anything with my life)?
+Additionally, I started to question what my career would look like. I had an interest I WANTED to take up in graduate school (this may still happen in the future), but without money, I wouldn’t be able to pursue that, and without a job, I wouldn’t have money (my parents explicitly told me they wouldn’t be able to financially support it without me pitching in). Additionally, I was mostly looking for administrative assistant jobs, and a recent check showed me that, at most, I would be making close to 50,000 a year - no where close to funding grad school (especially since I would probably have to leave the job in order to do so). If grad school wasn't going to happen, where would I be? Moving around from dead-end job to dead-end job, not making much due to my lack of skills (and thus, unable to do much of anything with my life)?
 
 This has gotten way longer than I intended it to be, so I’ll stop here. It’s a good place to stop anyway, because there’s a major event coming up that will shape the course of the rest of the story (you can probably figure out what happened based on…well, everything).
 

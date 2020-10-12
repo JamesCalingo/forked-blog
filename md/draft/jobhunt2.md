@@ -20,13 +20,15 @@ Early in the year, while on a trip to New York City, I saw ads for an IT school 
 
 At the same time, a random Google search brought up a coding bootcamp run by Rutgers. While they didn't give placement nubmers, they did mention how the web development field was expanding and offered career coaching to make me "employer competitive" in the market.
 
-With the Rutgers name behind it (among other things), I ended up deciding on the coding bootcamp, and about four months later, ended up with a certificate in web development. Some of what I learned is highly applicable and relevant to my current career, and some of it isn't (looking at you, Handlebars.JS).
+With the Rutgers name behind it (among other things), I ended up deciding on the coding bootcamp. Looking back, me doing something like coding bootcamp was almost inevitable: like I said before, I wanted to do graduate school, but time and resources were unlikely to work out. I was looking for a low skill, low pay job, and without the ability to gain new skills, was afraid that I'd get stuck in a low pay career for a long time (despite my parents saying I can always move forward).
+
+Bootcamp was great: it gave me a reason to leave the house every day, something to do at home instead of endless nothing, and a bunch of new people to interact with. Plus, the instructor we had was knowledgable and had a good sense of humor, so there was never a dull moment. Four months after I made the decision to do it, I ended up with a certificate in web development, new skills to put on my new resume, and new skills that I have completely forgotten because I have never seen them on any job descriptions (looking at you, Handlebars).
 
 The job search began in earnest again, but this time, instead of trying to sell myself on nebulous qualities and "fake experience", I had hard evidence of what I did and what I knew. In fact, I had some interviews with a company shortly after the bootcamp ended. I actually got sorta deep in interviewing with them, but a few things held me back from wanting to fully commit:
 
 1. Another 12 weeks of training. Why sit through more learning when you’ve learned so much already?
 2. The idea of “Location flexibility”. I wasn’t fond of being sent to who-knows-where when I had a strong connection with my friends here that I wasn’t ready to give up (at the time).
-3. Financials. I had heard things about the contracts they gave their developers on Glassdoor, and with my mom being a lawyer specializing in contracts, knew that you had to take them seriously or else you could end up in some big trouble. In this case, it was you agreeing to a pay level that was notably below the market average (even for entry level) for two years, and there was a hefty penalty to get out (more than 50% of what they wanted to pay you).
+3. Financials. I had heard things about the contracts they gave their developers on Glassdoor, and with my mom being a lawyer specializing in contracts, knew that you had to take them seriously or else you could end up in some big trouble. In this case, it was you agreeing to a pay level that was notably below the market average for two years (comprable to what I would've gotten as an administrative assistant), and there was a hefty penalty to get out.
 
 I ended up not pursuing the company further. Was this a mistake? It’s hard to say, but based on what I know now, I'm going to say it wasn't. Either way, I had decided to move on.
 
@@ -39,7 +41,7 @@ I looked back as some of my classmates were getting jobs, and realized that it w
 All this time, I was receiving emails and phone calls from recruiters about potential job openings. As nice as it was to be noticed, there were multiple problems with this:
 
 - The jobs were often in who-knows-where and I wasn't looking to relocate (at the time)
-- They were often for senior positions/required experience I didn’t have (remember, I had JUST learned how the basics of coding)
+- They were often for senior positions/required experience I didn’t have (remember, I had JUST learned the basics of coding)
 - It was a LinkedIn request, but the recruiter wasn’t actually in the United States (or their work history implied they weren't)
 
 A few of these recruiter calls could’ve led to stuff, as they said they’d try to help me out more than just what they were offering, but most of them fell by the wayside quickly.
@@ -48,10 +50,6 @@ There's another aspect of the search that I should mention before I forget it: I
 
 I had a few of these coding challenge interviews...but what happened after these sessions was the same from every company I did them for: nothing. I was often too nervous and frustrated to figure out what to do, and the one time I had a question that I thought I did well on, there was another question on stuff I hadn't even touched!
 
-One day, someone reached out to me on LinkedIn who claimed that they could help people get jobs as software developers. I accepted his invitation to connect, but didn’t really think much of it at the time. Remember this, though, because it'll be important down the line.
+One day, someone reached out to me on LinkedIn who claimed that they could help people get jobs as software developers. I accepted their invitation to connect, but didn’t really think much of it at the time. Remember this, though, because it'll be important down the line.
 
 2019 became 2020, and while I was still in the struggle of job hunting, I at least felt like something had changed and that I had more control of my situation than I did at the end of the previous year. Whether or not that was true was a differnt story altogether, but moving from "nebulous soft skills" to "emperical hard skills" was a significant shift in my search.
-
-"I throw my arm into the doorframe. While it does hurt when the door almost closes on it, it swings back open. I immediately dive into the train car, find a seat (somehow), and catch my breath: I managed to get on the train.
-
-I lean back in my chair, sip the bottle of water I've been drinking from since 11 PM, and close my eyes. I know I'll be dead tired when I get home, but the important thing is that I'll be able to sleep tonight, ready for what tomorrow may bring."
