@@ -52,4 +52,10 @@ I had a few of these coding challenge interviews...but what happened after these
 
 One day, someone reached out to me on LinkedIn who claimed that they could help people get jobs as software developers. I accepted their invitation to connect, but didn’t really think much of it at the time. Remember this, though, because it'll be important down the line.
 
+Of course, it didn't help that the whole time, I was trying to sell myself on a project that was 80% done. I'd like to believe that it was a noble idea, but there were a couple of MAJOR issues with it:
+
+- Most of it was copied class exercies/homework with the names changed
+- A large, important part of it that wasn't just copied class exercises was done by someone else
+- I had major issues trying to implement a key feature that was necessary for the app to be functional
+
 2019 became 2020, and while I was still in the struggle of job hunting, I at least felt like something had changed and that I had more control of my situation than I did at the end of the previous year. Whether or not that was true was a differnt story altogether, but moving from "nebulous soft skills" to "emperical hard skills" was a significant shift in my search.
